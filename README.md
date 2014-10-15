@@ -4,8 +4,10 @@
 ###### 测试环境为局域网
 
 <br/>
-######PC图鉴:
-![](https://github.com/freestyletime/AndroidServer/blob/master/Client/client.png)
+######nodejs图鉴:
+![](https://github.com/freestyletime/AndroidServer/blob/master/Client/nodejs.png)
+######java图鉴:
+![](https://github.com/freestyletime/AndroidServer/blob/master/Client/java.png)
 ######Andoird Mobile图鉴:
 ![](https://github.com/freestyletime/AndroidServer/blob/master/Server/server.png)
 
