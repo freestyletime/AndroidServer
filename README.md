@@ -5,10 +5,10 @@
 ###### 测试环境为wifi局域网 
 
 <br/>
-######nodejs图鉴:
+######nodejs(客户端)图鉴:
 ![](https://github.com/freestyletime/AndroidServer/blob/master/Client/nodejs.png)
-######java图鉴:
+######java(客户端)图鉴:
 ![](https://github.com/freestyletime/AndroidServer/blob/master/Client/java.png)
-######Andoird Mobile图鉴:
+######Andoird Mobile(服务端)图鉴:
 ![](https://github.com/freestyletime/AndroidServer/blob/master/Server/server.png)
 
